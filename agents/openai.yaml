@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Loops"
+  short_description: "Keep unresolved questions and decisions visible"
+  default_prompt: "Use $open-loops to reconcile the unresolved questions and decisions from this conversation."

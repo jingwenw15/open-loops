@@ -1,0 +1,8 @@
+{
+  "cases": [
+    {"id": "mixed-signal", "tests": "select consequential unresolved items while excluding casual, resolved, and directly actionable content"},
+    {"id": "reconcile-resolution", "tests": "resolve an existing decision without opening a duplicate for a deferred alternative"},
+    {"id": "provisional-assumption", "tests": "keep approval active while recording an implementation assumption as provisional"},
+    {"id": "no-op", "tests": "avoid creating a ledger when no consequential loop remains"}
+  ]
+}
